@@ -20,6 +20,6 @@
 ;タイトル画面へ移動
 @jump storage="scene1.ks"
 
-[s]
+
 
 

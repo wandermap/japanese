@@ -97,3 +97,7 @@
 仲間だね[p]
 [stopse ]
 
+[cm]
+
+[glink  color="blue"  storage="scene1.ks"  size="28"  x="360"  width="500"  y="200"  text="最初に戻る"  target="*start"  ]
+[s  ]
